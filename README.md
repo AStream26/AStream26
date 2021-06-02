@@ -56,10 +56,10 @@
 
 
 <br/>
-
+<br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p >
 <a href="https://astream26.ga/"><img alt="Website" src="https://img.shields.io/badge/Website-https://astream26.ga-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/avi-kumar-srivastava-79a25b177/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Avi%20Kumar%20Srivastava-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/__avi_26__/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__avi_26__-blue?style=flat-square&logo=instagram"></a>
