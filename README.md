@@ -46,10 +46,13 @@
 
 
 <h1 align="left"> 📊 &nbsp;Git Stats</h1>
-<p>
-  <img  src="https://github-readme-stats.vercel.app/api?username=Astream26&&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Astream26" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astream26&&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Astream26" />
- </p>
+
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Astream26&&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Astream26" />
+  <img  align="left"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Astream26&&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Astream26" />
+<br/>
+<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astream26&&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Astream26" />
+
+
 
 
 <br/>
