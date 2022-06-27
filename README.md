@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" height="400px" width="800px" />
-</p>
-
 
 <h2> 👋 Hey there! I'm Avi. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
 
