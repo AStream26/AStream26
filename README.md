@@ -1,5 +1,5 @@
 
-<h2> 👋 Hey there! I'm Avi. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
+<h2> 👋 Hey there! I'm Avi. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" height="30px"></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
